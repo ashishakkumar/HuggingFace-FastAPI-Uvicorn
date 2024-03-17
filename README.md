@@ -1,4 +1,4 @@
-## FastAPI for deploying model pulled from HuggingFace
+# FastAPI for deploying model pulled from HuggingFace
 <div align="center">
 <img src="https://github.com/ashishakkumar/HuggingFace_FastAPI/blob/main/OIG3.p39IuQA.jpeg" alt="My Image" width="400" height="400">
 </div>
