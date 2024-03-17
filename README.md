@@ -1,4 +1,4 @@
-### FASTAPI EXAMPLE FOR DEPLOYING MODEL PULLED FROM HUGGINGFACE
+## FASTAPI FOR DEPLOYING MODEL PULLED FROM HUGGINGFACE
 <div align="center">
 <img src="https://github.com/ashishakkumar/HuggingFace_FastAPI/blob/main/OIG3.p39IuQA.jpeg" alt="My Image" width="400" height="400">
 </div>
